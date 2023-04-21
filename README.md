@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on Infrastructure
+- 🔭 I’m currently working on Infrastructure and RPA's
 - 🌱 I’m currently learning React and TypeScript
 - 📫 How to reach me: moises475oliveira@gmail.com or https://www.linkedin.com/in/moisés-santos-de-oliveira/ 
 - 😄 Pronouns: He/Him
