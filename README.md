@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Infrastructure
 - 🌱 I’m currently learning React and TypeScript
-- 📫 How to reach me: moises475oliveira@gmail.com or https://www.linkedin.com/in/moisés-santos-de-oliveira/ 
+- 📫 How to reach me: moises475oliveira@gmail.com or https://www.linkedin.com/in/moises-santos-de-oliveira/ 
 - 😄 Pronouns: He/Him
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=moisesoliveira475&count_private=true&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
