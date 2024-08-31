@@ -7,8 +7,8 @@
 Here are some ideas to get you started:
 -->
 
-- 🔭 I’m currently working on development of automation flows and applications on the Microsoft Power Platform
-- 🌱 I’m currently learning React and TypeScript
+- 🔭 I’m currently working on Web Development and build automation flows, applications and reports on the Microsoft Power Platform.
+- 🌱 I’m currently learning Go
 - 📫 How to reach me: moises475oliveira@gmail.com or https://www.linkedin.com/in/moises-santos-de-oliveira/ 
 - 😄 Pronouns: He/Him
 
